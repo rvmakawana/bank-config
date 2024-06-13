@@ -1,0 +1,13 @@
+
+
+build:
+  version: "2.0"
+
+cards:
+  message: "QA Cards microservices"
+  contactDetails:
+    name: "Ravi Makawana"
+    email: "rvmakawanas@gmail.com"
+  onCallSupport:
+    - 01234567890
+    - 01234567811

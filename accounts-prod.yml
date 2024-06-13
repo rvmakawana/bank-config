@@ -1,0 +1,13 @@
+
+
+build:
+  version: "4.0"
+
+accounts:
+  message: "Account microservices"
+  contactDetails:
+    name: "Ravi Makawana"
+    email: "rvmakawana@gmail.com"
+  onCallSupport:
+    - 01234567890
+    - 01234567811

@@ -1,0 +1,12 @@
+
+build:
+  version: "4.0"
+
+loans:
+  message: "Loans microservices"
+  contactDetails:
+    name: "Ravi Makawana"
+    email: "rvmakawana@gmail.com"
+  onCallSupport:
+    - 01234567890
+    - 01234567811
