@@ -7,7 +7,7 @@ accounts:
   message: "Account microservices"
   contactDetails:
     name: "Ravi Makawana"
-    email: "9e6825d51b3722045056d854c939f07dfa942537627554027cb680bae2abef440d98e3ef71016b4c2eee8176ada27151"
+    email: "{cipher}9e6825d51b3722045056d854c939f07dfa942537627554027cb680bae2abef440d98e3ef71016b4c2eee8176ada27151"
   onCallSupport:
     - 01234567890
     - 01234567811
