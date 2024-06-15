@@ -3,7 +3,7 @@ build:
   version: "4.0"
 
 cards:
-  message: "Cards microservices"
+  message: "Cards microservices prod"
   contactDetails:
     name: "Ravi Makawana"
     email: "rvmakawana@gmail.com"
