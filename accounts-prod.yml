@@ -4,7 +4,7 @@ build:
   version: "4.0"
 
 accounts:
-  message: "Account microservices"
+  message: "Account microservices prod"
   contactDetails:
     name: "Ravi Makawana"
     email: "{cipher}9e6825d51b3722045056d854c939f07dfa942537627554027cb680bae2abef440d98e3ef71016b4c2eee8176ada27151"
