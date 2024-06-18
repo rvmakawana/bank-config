@@ -3,7 +3,7 @@ build:
   version: "4.0"
 
 loans:
-  message: "Loans microservices"
+  message: "Loans microservices default"
   contactDetails:
     name: "Ravi Makawana"
     email: "rvmakawana@gmail.com"
