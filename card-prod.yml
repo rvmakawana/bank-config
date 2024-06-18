@@ -3,7 +3,7 @@ build:
   version: "4.0"
 
 cards:
-  message: "Cards microservices prod"
+  message: "Cards microservices prod webhook changes"
   contactDetails:
     name: "Ravi Makawana"
     email: "rvmakawana@gmail.com"
